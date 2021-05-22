@@ -1,0 +1,24 @@
+{
+  "name": "usetitle",
+  "version": "1.0.0",
+  "description": "change document title",
+  "main": "useTitle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hwanghi/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "nomad"
+  ],
+  "author": "heedae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hwanghi/react-hooks/issues"
+  },
+  "homepage": "https://github.com/Hwanghi/react-hooks#readme"
+}
